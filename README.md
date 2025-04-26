@@ -1,2 +1,6 @@
-# pulse
-For a healthier world.
+# Pulse
+
+> Practical news. Personal impact.
+
+Pulse, a newsletter from AI for Health.
+
